@@ -1,4 +1,4 @@
-# Minimum-Number-of-Arrows-to-Burst-Balloons
+# Minimum-Number-of-Arrows-to-Burst-Balloons:
 here are n balloons, each represented by a pair of coordinates start and end, which denote the horizontal diameter of the balloon.
 Explanation:
 Sort the balloons by the end of their range.
